@@ -1,0 +1,38 @@
+﻿{
+    "name": "railway",
+    "description": "x",
+    "keywords": ["x"],
+    "env": {
+        "AA": {
+            "description": "初阶用户",
+            "value": "如出现错误"
+        },
+        "AUUID": {
+            "description": "UUID的网站: https://www.uuidgenerator.net",
+            "value": "5b1f0556-9c29-4aed-927d-f5257a592010"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义参考",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/Mhgytd24/hkxi/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/Mhgytd24/hkxi/master/etc/wry.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS加密",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "自定义网络地址读取存储文件列表",
+            "value": "https://raw.githubusercontent.com/Mhgytd24/hkxi/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/Mhgytd24/hkxi",
+    "repository": "https://github.com/Mhgytd24/hkxi",
+    "stack": "container"
+}
